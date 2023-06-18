@@ -1,0 +1,29 @@
+img {
+    height: 150px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+#cook-time {
+    font-weight: bold;
+}
+
+/* parent-element child-element */
+.ingredients li {
+    list-style: square;
+}
+
+/* to chain elements do not put a space between them */
+p.time {
+    color: grey;
+}
+
+.external-link {
+    color: seagreen;
+}
+
+h1, h2, p, li {
+    font-family: Helvetica;
+}
